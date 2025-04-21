@@ -1,0 +1,1 @@
+SELECt 'This is first model from vs_code' as Message
